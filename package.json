@@ -1,0 +1,20 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "curriculum",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "^16.10.2",
+    "react": "^16.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "curriculum"
+  ],
+  "author": "alanmaranto",
+  "license": "ISC"
+}
